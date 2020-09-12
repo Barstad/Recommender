@@ -1,0 +1,5 @@
+*.csv 
+*.tfrecord 
+*.ipynb_checkpoints 
+*.ipynb 
+*.pyc 
